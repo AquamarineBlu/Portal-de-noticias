@@ -17,7 +17,11 @@
 
 #secondary{
     padding-block: 14px;
-    border-top: 1px solid var(--stroke-color);
+    border: 1px solid var(--stroke-color);
     border-inline: none;
-    justify-content: space-beetween;
-}   
+    justify-content: space-between;
+}
+
+header{
+    color: var(--text-color-secondary);
+}
